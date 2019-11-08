@@ -52,11 +52,11 @@ table {
     display: table;
    }
 body {
-    background: beige; 
+    background: whitesmoke; 
     
 }
 header {
-    background: pink;
+    background: whitesmoke;
 }
 .wrap {
     width: 960px; 
